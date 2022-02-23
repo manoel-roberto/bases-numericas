@@ -1,0 +1,10 @@
+{
+  "name": "bases-numericas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manoel Roberto <manoelrobertoms@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}
